@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ytmate/static/css/main.1cc700a0.css",
+    "main.js": "/ytmate/static/js/main.b947bbfe.js",
+    "static/js/453.fa2eb3be.chunk.js": "/ytmate/static/js/453.fa2eb3be.chunk.js",
+    "index.html": "/ytmate/index.html",
+    "main.1cc700a0.css.map": "/ytmate/static/css/main.1cc700a0.css.map",
+    "main.b947bbfe.js.map": "/ytmate/static/js/main.b947bbfe.js.map",
+    "453.fa2eb3be.chunk.js.map": "/ytmate/static/js/453.fa2eb3be.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1cc700a0.css",
+    "static/js/main.b947bbfe.js"
+  ]
+}
